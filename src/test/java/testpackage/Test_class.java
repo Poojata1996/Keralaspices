@@ -75,12 +75,8 @@ import utilities.Utilities_class;
 				driver.navigate().back();
 				p1.products();
 				p1.cart();
-				
-				
-			
+				}
 			}
-			
-		}
 	}
 	
 		
